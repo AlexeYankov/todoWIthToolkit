@@ -8,7 +8,7 @@ import { Redirect } from 'react-router-dom'
 
 export const Login = () => {
     const dispatch = useDispatch()
-
+    console.log(9)
     const isLoggedIn = useSelector<AppRootStateType, boolean>(state => state.auth.isLoggedIn);
 
     const formik = useFormik({
