@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/todoWIthToolkit.git/static/css/main.e6c13ad2.css",
-    "main.js": "/todoWIthToolkit.git/static/js/main.06c9a54f.js",
-    "index.html": "/todoWIthToolkit.git/index.html",
-    "main.e6c13ad2.css.map": "/todoWIthToolkit.git/static/css/main.e6c13ad2.css.map",
-    "main.06c9a54f.js.map": "/todoWIthToolkit.git/static/js/main.06c9a54f.js.map"
+    "main.css": "/todoWIthToolkit/static/css/main.e6c13ad2.css",
+    "main.js": "/todoWIthToolkit/static/js/main.06c9a54f.js",
+    "index.html": "/todoWIthToolkit/index.html",
+    "main.e6c13ad2.css.map": "/todoWIthToolkit/static/css/main.e6c13ad2.css.map",
+    "main.06c9a54f.js.map": "/todoWIthToolkit/static/js/main.06c9a54f.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
