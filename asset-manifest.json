@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todoWIthToolkit.git/static/css/main.e6c13ad2.css",
+    "main.js": "/todoWIthToolkit.git/static/js/main.3f72ab01.js",
+    "index.html": "/todoWIthToolkit.git/index.html",
+    "main.e6c13ad2.css.map": "/todoWIthToolkit.git/static/css/main.e6c13ad2.css.map",
+    "main.3f72ab01.js.map": "/todoWIthToolkit.git/static/js/main.3f72ab01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3f72ab01.js"
+  ]
+}
